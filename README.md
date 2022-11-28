@@ -1,5 +1,4 @@
-This project was made using MERN Stack
-
+This project was made using MERN Stack social media project. It has functionalities of creating post, comments, reviews, likes, profile page, etc.
 ## Available Scripts
 
 In the project directory, you can run:
