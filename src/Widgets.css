@@ -10,6 +10,7 @@
   border-radius: 20px;
   margin-top: 10px;
   margin-left: 20px;
+  margin-right: 10px;
 }
 
 .widgets__input > input {
@@ -23,9 +24,9 @@
 }
 
 .widgets__widgetContainer {
-  margin-top: 15px;
-  margin-left: 20px;
-  padding: 20px;
+  margin-top: 13px;
+  margin-left: 13px;
+  padding: 10px;
   background-color: #f5f8fa;
   border-radius: 20px;
 }
