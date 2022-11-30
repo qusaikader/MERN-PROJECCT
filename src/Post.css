@@ -11,8 +11,8 @@
 }
 
 .post__avatar {
-  
-  padding: 20px;
+  padding: 15px;
+  padding-right: 10px;
 }
 
 .post__body > img {
