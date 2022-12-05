@@ -1,15 +1,15 @@
 import React from 'react'
 import "./Sidebar.css"
 import SidebarOption from './SidebarOption'
-import HomeIcon from '@material-ui/icons/Home'
-import SearchIcon from '@material-ui/icons/Search'
-import NotificationsNoneIcon from '@material-ui/icons/NotificationsNone'
-import MailOutlineIcon from '@material-ui/icons/MailOutlineOutlined'
-import BookmarkBorderIcon from '@material-ui/icons/BookmarkBorder'
-import ListAltIcon from '@material-ui/icons/ListAlt'
-import PermIdentityIcon from '@material-ui/icons/PermIdentity'
-import MoreHorizIcon from '@material-ui/icons/MoreHoriz'
-import { Button } from '@material-ui/core'
+import HomeIcon from '@mui/icons-material/Home';
+import SearchIcon from '@mui/icons-material/Search';
+import NotificationsNoneIcon from '@mui/icons-material/NotificationsNone';
+import MailOutlineIcon from '@mui/icons-material/MailOutlineOutlined'
+import BookmarkBorderIcon from '@mui/icons-material/BookmarkBorder'
+import ListAltIcon from '@mui/icons-material/ListAlt'
+import PermIdentityIcon from '@mui/icons-material/PermIdentity'
+import MoreHorizIcon from '@mui/icons-material/MoreHoriz'
+import Button from '@mui/material/Button'
 
 function Sidebar() {
     return (
